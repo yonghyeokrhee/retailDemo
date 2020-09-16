@@ -8,4 +8,4 @@ When the Retail Demo Store project is deployed to your AWS account, a SageMaker 
 2. From within your AWS account, browse to the SageMaker service page.
 3. Under Notebooks, you should see a notebook instance with a name based on the stack name you used when deployed via CloudFormation. Open the instance in Jupyter or Jupyter Lab. If you don't see a notebook instance for the Retail Demo Store, be sure that you're in the right region.
 4. Within Jupyter/Jupyter Lab, navigate to the [Welcome.ipynb](Welcome.ipynb) notebook to begin.
-# retailDemo
+
